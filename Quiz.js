@@ -34,8 +34,12 @@
       }
     if (total == 141){
           document.getElementById("answer2").innerHTML = "We recommend <a href ="https://www.amazon.com/Facial-Cleanser-Minimizer-Wrinkle-Sensitive/dp/B00XVTL04W">Facial Cleanser for oily, dry or Sensitive Skin</a>";
-      } 
-        
+      }
+    if (total == 211){
+          document.getElementById("answer2").innerHTML = "We recommend <a href ="https://www.dermstore.com/product_TriActive+Exfoliant_62984.htm">iS Clinical Tri-Active Exfoliant</a>";
+      }
+         if (total ==221){
+          document.getElementById("answer2").innerHTML = 
 
     return false;
     	 }
